@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DjalilKun
+- 👀 I’m interested in IOT solutions
+- 🌱 I’m currently learning Netwoking, big data, machine learning and web devoloping.
